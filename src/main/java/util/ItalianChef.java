@@ -1,4 +1,4 @@
-package pixel.academy.spring_core_ioc;
+package util;
 
 import org.springframework.stereotype.Component;
 
