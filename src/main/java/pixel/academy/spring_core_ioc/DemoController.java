@@ -14,7 +14,7 @@ public class DemoController {
         myChef = theChef;
     }
 
-    @GetMapping("/dailyRecipe")
+    @GetMapping("/dailyrecipe")
     public String getDailyRecipe() {
         return myChef.getDailyRecipe();
     }
